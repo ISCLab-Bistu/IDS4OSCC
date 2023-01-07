@@ -1,5 +1,6 @@
 # IDS4OSCC
 以上参考为为项目书中行业内评价论文列表中的论文：
+
 [1] Ralbovsky NM, Lednev LK*. Toward development of a novel universal medical diagnostic method: Raman spectroscopy and machine learning[J]. Chemical Society Reviews, 2020, 49: 7428-7453
 
 [2] Lussier F, Thibault V, Masson JF*, et al. Deep learning and artificial intelligence methods for Raman and surface-enhanced Raman scattering[J]. TrAC Trends in Analytical Chemistry, 2020, 124: 115796
